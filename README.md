@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/10/10b3b4d5d5c9ab981aab58e99d5b9a3d.gif" width="200" alt="One Piece Anime Gif"/>
+  <!-- Banner anime One Piece -->
+  <img src="https://i.ibb.co/FxM0pTb/onepiece-banner.gif" width="600" alt="One Piece Banner"/>
 </p>
 
 ---
@@ -16,6 +17,7 @@
 - 🧭 Inspired by **One Piece adventure spirit**  
 - 🐳 Exploring **AI, Deep Learning, and Big Data**  
 - 🌸 Anime fan: **One Piece, Naruto, My Hero Academia**  
+- ✨ Motto: “Set sail in the sea of data, chase the treasure of knowledge!”  
 
 ---
 
@@ -26,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Anime-✨-pink?style=for-the-badge&logo=twitter" width="90"/>
+  <img src="https://img.shields.io/badge/OnePiece-🏴‍☠️-blue?style=for-the-badge" width="90"/>
 </p>
 
 ---
@@ -41,4 +45,7 @@
 
 ---
 
-<p align="center">🌊 "Set sail in the sea of data, chase the treasure of knowledge!" 🏴‍☠️</p>
+<p align="center">
+  <!-- Snake contribution -->
+  <img src="https://github.com/ilhampratamahambali/ilhampratamahambali/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
