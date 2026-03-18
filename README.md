@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- ✅ capsule-render — paling reliable, hosted di Vercel -->
 
 <br/>
 
@@ -101,6 +102,8 @@ class Ilham:
 
 ---
 
+
+---
 
 ## 🌊 My Voyage Map
 
