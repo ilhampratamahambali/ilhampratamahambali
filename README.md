@@ -101,16 +101,6 @@ class Ilham:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- ✅ trophy — column=6 agar tidak terpotong, no-bg mengurangi beban render -->
-<img src="https://github-profile-trophy.vercel.app/?username=ilhampratamahambali&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 🌊 My Voyage Map
 
