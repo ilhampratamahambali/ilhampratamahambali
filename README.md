@@ -18,17 +18,15 @@
 
 ---
 
+#```markdown
 ## 🧭 About Me
 
-```python
-class Ilham:
-    name       = "Ilham Pratama Hambali"
-    role       = "Data Science & ML Explorer"
-    motto      = "Set sail in the sea of data, chase the treasure of knowledge!"
-    interests  = ["Machine Learning", "Deep Learning", "AI", "Big Data"]
-    anime      = ["One Piece 🏴‍☠️", "Naruto 🍃", "My Hero Academia ⚡"]
-    currently  = "Exploring the Grand Line of Data Science"
-```
+- 👤 **Name**: Ilham Pratama Hambali  
+- 💻 **Role**: Data Science & ML Explorer  
+- 🚀 **Motto**: *Set sail in the sea of data, chase the treasure of knowledge!*  
+- 🧠 **Interests**: Machine Learning, Deep Learning, AI, Big Data  
+- 🎌 **Anime**: One Piece 🏴‍☠️, Naruto 🍃, My Hero Academia ⚡  
+- 🌊 **Currently**: Exploring the Grand Line of Data Science  
 
 > *"Inherited Will, the Tide of the Times, and the Dreams of Men — these are things that cannot be stopped."* — Edward Newgate
 
