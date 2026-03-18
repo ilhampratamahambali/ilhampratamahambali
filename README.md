@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ✅ capsule-render — paling reliable, hosted di Vercel -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:1a3a5c&height=200&section=header&text=Ilham%20Pratama&fontSize=50&fontColor=4fc3f7&fontAlignY=38&desc=Data%20Science%20%26%20Machine%20Learning%20Explorer&descAlignY=60&descColor=90caf9&animation=fadeIn" width="100%"/>
 
 <br/>
 
